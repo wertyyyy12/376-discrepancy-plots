@@ -1,0 +1,39 @@
+RMS value of voltage norm: 0.49129992932257516
+voltage norm summary: 
+count    250000.000000
+mean          0.491250
+std           0.007034
+min           0.460692
+25%           0.486680
+50%           0.491220
+75%           0.496146
+max           0.522177
+
+RMS value of B: 1.0067621502511787e-05
+B summary: 
+count    2.500000e+05
+mean     1.006659e-05
+std      1.441347e-07
+min      9.440407e-06
+25%      9.972942e-06
+50%      1.006598e-05
+75%      1.016693e-05
+max      1.070035e-05
+
+less_filtered: 
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaNmore_filtered: 
+count    250000.000000
+mean         -0.200020
+std           2.886757
+min          -5.200000
+25%          -2.700010
+50%          -0.200020
+75%           2.299970
+max           4.799960
